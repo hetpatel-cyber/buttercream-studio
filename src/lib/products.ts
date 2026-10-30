@@ -188,7 +188,7 @@ export const PRODUCTS: Product[] = [
     longDescription: 'A completely bespoke wedding cake finished in smooth ivory fondant, hand-embossed with a custom lace pattern and decorated with sugar pearls and edible gold. Available in 2, 3, or 4 tiers. Requires a minimum 14-day advance booking.',
     price: 8000,
     priceNote: 'Illustrative starting price. Wedding cakes are fully custom-quoted based on design.',
-    image: 'https://images.unsplash.com/photo-1517427677506-ade074eb1432?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?w=800&q=80',
     flavours: ['Vanilla', 'Almond', 'Rose Lychee'],
     sizes: ['2-tier', '3-tier', '4-tier'],
     serves: '50–120 people',
